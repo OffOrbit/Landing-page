@@ -158,11 +158,53 @@ figcaption {
  justify-content: center;
  align-items: center;
  border: #3882f6;
- font-size: 10px;
- 
+ margin: 45px;
 }
 
 .bluebox {
  display: flex;
- flex-direction: column;
+ flex-direction: row;
+ justify-content: space-between;
+ align-items: center;
+ border: 3px solid #3882f6;
+ padding: 10px;
+ padding-left: 85px;
+ padding-right: 85px;
+ background-color: #3882f6;
+ border-radius: 10px;
+}
+
+
+.small-button {
+ padding: 5px 20px;
+ box-shadow: none;
+ border: 2px solid white;
+ margin-left: 30px;
+}
+
+.text-container {
+ flex: 1;
+ text-align: left;
+ color: #e5e7eb;
+ padding: 10px;
+ padding-right: 30px;
+ margin-right: 20px;
+}
+
+.text-container h1 {
+ font-size: 20px;
+ margin: 5px 0;
+}
+
+.text-container h2 {
+ font-size: 14px;
+ margin: 5px 0;
+}
+
+.footer {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ color: #c4c4c9;
+ padding: 10px;
 }
