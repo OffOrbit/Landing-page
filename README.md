@@ -7,3 +7,7 @@ final project before learning JS
 created index and style folder and started to work on base foundation.
 - 10.10.23 4:03pm
 wrote html for top layer with image.
+
+
+- 10.25.23
+Finished project
